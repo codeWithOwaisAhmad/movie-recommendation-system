@@ -372,3 +372,4 @@ elif st.session_state.view == "details":
                 st.warning("No recommendations available right now.")
     else:
         st.warning("No title available to compute recommendations.")
+
